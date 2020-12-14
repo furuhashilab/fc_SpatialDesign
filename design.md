@@ -31,7 +31,7 @@
 * 要素が同じものでない場合それをはっきりと違うものとして捉えさせるということ。
 * 一番オリジナリティを出せる部分とも言い換えることができる
 
-   [コントラストの法則](https://speakerdeck.com/mapbank/kontorasutofalsesusume)
+[コントラストの法則](https://speakerdeck.com/mapbank/kontorasutofalsesusume)
 
 
 ### 反復の法則
